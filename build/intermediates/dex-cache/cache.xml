@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_3b8c8d870c334e214032d3abf7b3b0e3c1e80f55.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_b728f18bf8d7ecca6f45f4a5fcdb763e69823de3.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_4c266f14049bde8ac32ab646dccd217236847607.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_012aaa907d9d4f77d8d907bea96db2bed9acb7fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.4.0_a796f7a938e469bd8cb34bcf435388efcf624420.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_1465c8f75d07af970ebd174cc9a8aa480a6f3658.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_98777a0de20a2f416d21d513a3084b569d1425e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_c6aea1b7ecc855c1b3873bd7abfbdd4daa6efc98.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_6d7bbde6251eeab00b1553ab3a2d85dd7dc9c455.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_fd56ad6d1e757553f9955f5bb9fbcf88ec404ca0.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_5f375b66516c8b50d1fac117b026ed2aca9376cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_2ab6f744ad80c360c3eeb87d55cf83b5d9518ed7.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_34ea7a8d836644df4bd6b6881aad9f4c96c41b45.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_98cd7ac279ee04320e670e69f61eecea9406205c.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_53b9b4d021ec358efeb4e2766459f42b44015cfb.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_116d29d809765b51e3e366e0af5607cb37132887.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_d927f8fffda8f2ffbc271fe9fa14f622e2b1ee46.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_043a4d976a97e6c208072f3c9d6dc99c357dad29.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_513f6164726a4c0a7bec8c0fba7daabe5ebd1730.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_1d11754042ec5e12babdab43ab6bb032b2b1d480.jar" />
+    </item>
+    <item
+        jar="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\NSCPL-SUMUKH\Desktop\android-vision-master\visionSamples\ocr-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_905540cc088ff431fa84f945f2461cd2d1b6fe6d.jar" />
+    </item>
+
+</items>
